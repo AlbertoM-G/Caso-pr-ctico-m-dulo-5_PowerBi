@@ -7,7 +7,7 @@
 
 El dash se divide en dos tableros:
 1. Overview: en el se podrá encontrar de una forma general el como se componen las ventas del negocio; desde la cantidad de clientes por segmento y sus ventas (en unidades monetarias y piezas), el ciclo (tendencia) de venta según categoría, hasta la distribución geográfica de estas mismas (según el tamaño de las burbujas será la contribución en venta de cada estado).
-   Esta información puede verse de forma acumulada en un periodo de análisis de 4 años (2020-2023), o bien, se pueden aplicar filtros en algún año (e incluso mes) en específico).
+   Esta información puede verse de forma acumulada en un periodo de análisis de 4 años (2020-2023), o bien, se pueden aplicar filtros en algún año (e incluso mes en específico).
    También existe la posibilidad de verificar toda esta información a nivel ciudad (en la opción de filtros).
 
 ![image](https://github.com/user-attachments/assets/417cf4c5-659e-4adc-a464-0b857f4a92a0)
